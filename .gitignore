@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OSX
 #
 .DS_Store
@@ -51,3 +52,7 @@ buck-out/
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
+=======
+/node_modules
+/dist
+>>>>>>> f9eb9a86e7b9d07506597681acb4026422e20ffc
